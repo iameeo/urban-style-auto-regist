@@ -851,11 +851,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\urban-style-auto-regist\\urban-style-auto-regist.csproj",
+      "projectUniqueName": "D:\\.net_project\\git\\urban-style-auto-regist.csproj",
       "projectName": "urban-style-auto-regist",
-      "projectPath": "D:\\dev\\urban-style-auto-regist\\urban-style-auto-regist.csproj",
+      "projectPath": "D:\\.net_project\\git\\urban-style-auto-regist.csproj",
       "packagesPath": "C:\\Users\\ljhm\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\urban-style-auto-regist\\obj\\",
+      "outputPath": "D:\\.net_project\\git\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ljhm\\AppData\\Roaming\\NuGet\\NuGet.Config",

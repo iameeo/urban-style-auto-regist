@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8yMbxMo0V+h6ZC7UrC30PeITLql7/n6FfmZAX7v6ToEeU3GZcHXedLxdISDTQBLPcx2ZML52pGLRg09rNXfn3g==",
+  "dgSpecHash": "ttK3dJj9tT3BvXgTElUUxEo/T5j/fzscmzeRHTU9YQTCe1GoEn3IgYwaRLJ0MXgl03KQ3GwjOKwjsNxEzQY64g==",
   "success": true,
-  "projectFilePath": "D:\\dev\\urban-style-auto-regist\\urban-style-auto-regist.csproj",
+  "projectFilePath": "D:\\.net_project\\git\\urban-style-auto-regist.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ljhm\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.13\\microsoft.entityframeworkcore.8.0.13.nupkg.sha512",
     "C:\\Users\\ljhm\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.13\\microsoft.entityframeworkcore.abstractions.8.0.13.nupkg.sha512",

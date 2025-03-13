@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("urban-style-auto-regist")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+803aa0c4ba032c7a92d87f5cf3e898ce74a29b54")]
 [assembly: System.Reflection.AssemblyProductAttribute("urban-style-auto-regist")]
 [assembly: System.Reflection.AssemblyTitleAttribute("urban-style-auto-regist")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
