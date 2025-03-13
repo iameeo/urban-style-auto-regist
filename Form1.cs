@@ -37,7 +37,7 @@ namespace urban_style_auto_regist
 
             if (shopInfo.ShopName.Equals("ddmshu", StringComparison.OrdinalIgnoreCase))
             {
-                PerformLogin(shopInfo.ShopUrl, shopInfo.ShopId, shopInfo.ShopPw, shopInfo.ShopName);
+                DdmShuLogin(shopInfo.ShopUrl, shopInfo.ShopId, shopInfo.ShopPw, shopInfo.ShopName);
             }
             else
             {
@@ -45,7 +45,7 @@ namespace urban_style_auto_regist
             }
         }
 
-        private void PerformLogin(string url, string id, string pw, string shopName)
+        private void DdmShuLogin(string url, string id, string pw, string shopName)
         {
             var options = new ChromeOptions();
             options.AddArgument("--start-maximized");
